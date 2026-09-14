@@ -33,7 +33,7 @@ This confirms that ALB successfully forwards the request to the EC2 backend.
 
 After ALB operates correctly, ALB is used as the **origin** for the CloudFront distribution knoverse-backend-api.
 
-![ALB as CloudFront Origin](/images/4-Workshop/4.5-ALB/image.png)
+![ALB as CloudFront Origin](images/4-Workshop/4.5-ALB/image.png)
 
 In CloudFront, configure the origin to point to the ALB DNS:
 

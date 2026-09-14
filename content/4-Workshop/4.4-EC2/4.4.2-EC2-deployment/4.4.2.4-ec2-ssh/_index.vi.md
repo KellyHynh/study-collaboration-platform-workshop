@@ -26,5 +26,5 @@ Ví dụ:
 
 Từ thời điểm này, các lệnh tiếp theo được thực hiện trực tiếp trên EC2 instance.
 
-![Kết nối tới EC2 bằng SSH](/images/4-Workshop/4.4-EC2/6.png)
+![Kết nối tới EC2 bằng SSH](images/4-Workshop/4.4-EC2/6.png)
 

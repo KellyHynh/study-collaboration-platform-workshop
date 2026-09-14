@@ -41,5 +41,5 @@ or the database host of the local environment.
 
 After updating the database configuration, restart the backend to apply the new database connection.
 
-![Backend RDS Configuration](/images/4-Workshop/4.3-RDS/image7.png)
+![Backend RDS Configuration](images/4-Workshop/4.3-RDS/image7.png)
 

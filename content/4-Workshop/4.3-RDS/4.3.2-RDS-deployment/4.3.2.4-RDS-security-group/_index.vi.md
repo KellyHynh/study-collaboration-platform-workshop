@@ -41,5 +41,5 @@ cho PostgreSQL trong môi trường triển khai thực tế.
 
 Đảm bảo outbound configuration không ngăn cản các connection cần thiết.
 
-![RDS Security Group](/images/4-Workshop/4.3-RDS/image6.png)
+![RDS Security Group](images/4-Workshop/4.3-RDS/image6.png)
 

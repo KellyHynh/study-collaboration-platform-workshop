@@ -11,7 +11,7 @@ This step verifies that the complete database deployment works from the applicat
 
 The verification flow is:
 
-![RDS End-to-End Flow](/images/4-Workshop/4.3-RDS/image10.png)
+![RDS End-to-End Flow](images/4-Workshop/4.3-RDS/image10.png)
 
 #### Step 1 — Check Backend
 
@@ -59,5 +59,5 @@ API response
 
 The complete flow is working end-to-end.
 
-![RDS Verification Result](/images/4-Workshop/4.3-RDS/11.png)
+![RDS Verification Result](images/4-Workshop/4.3-RDS/11.png)
 

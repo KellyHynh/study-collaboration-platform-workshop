@@ -50,7 +50,7 @@ After the AWS infrastructure is deployed, Amazon RDS is responsible for the **da
 
 The main connection architecture is illustrated below:
 
-![KnoVerse RDS Architecture](/images/4-Workshop/4.3-RDS/image1.png)
+![KnoVerse RDS Architecture](images/4-Workshop/4.3-RDS/image1.png)
 
 The backend does not access the database through CloudFront or the Application Load Balancer. Requests from clients are first handled by the backend application running on EC2. The backend then performs database operations with Amazon RDS through the configured AWS network.
 

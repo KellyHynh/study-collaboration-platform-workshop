@@ -17,7 +17,7 @@ Sử dụng PostgreSQL client hoặc database tool phù hợp để kết nối 
 
 Thực hiện database migration hoặc chạy schema initialization script của KnoVerse.
 
-![Khởi tạo RDS Database](/images/4-Workshop/4.3-RDS/image8.png)
+![Khởi tạo RDS Database](images/4-Workshop/4.3-RDS/image8.png)
 
 #### Bước 3 — Kiểm tra Tables
 
@@ -39,5 +39,5 @@ Kiểm tra các relationships và constraints của database:
 
 - Các relationships giữa các bảng.
 
-![RDS Database Tables](/images/4-Workshop/4.3-RDS/image9.png)
+![RDS Database Tables](images/4-Workshop/4.3-RDS/image9.png)
 

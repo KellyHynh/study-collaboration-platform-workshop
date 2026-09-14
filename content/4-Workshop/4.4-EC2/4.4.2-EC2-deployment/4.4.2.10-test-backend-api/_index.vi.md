@@ -28,5 +28,5 @@ Kết quả mong đợi:
 
 HTTP/1.1 200 OK
 
-![Kiểm tra Backend API](/images/4-Workshop/4.4-EC2/9.png)
+![Kiểm tra Backend API](images/4-Workshop/4.4-EC2/9.png)
 

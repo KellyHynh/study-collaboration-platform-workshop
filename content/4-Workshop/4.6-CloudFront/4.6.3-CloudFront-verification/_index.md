@@ -151,4 +151,4 @@ Final backend endpoint:
 
 https://d2hvns14tchtf3.cloudfront.net/api/courses
 
-![ALB as CloudFront Origin](/images/4-Workshop/4.6-CloudFront/1.png)
+![ALB as CloudFront Origin](images/4-Workshop/4.6-CloudFront/1.png)

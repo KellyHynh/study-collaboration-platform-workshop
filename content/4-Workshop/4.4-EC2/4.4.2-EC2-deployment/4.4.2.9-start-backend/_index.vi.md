@@ -22,7 +22,7 @@ Backend sẽ bắt đầu lắng nghe trên port được application configurat
 
 Có thể kiểm tra process/application bằng terminal.
 
-![Backend Application Running](/images/4-Workshop/4.4-EC2/8.png)
+![Backend Application Running](images/4-Workshop/4.4-EC2/8.png)
 
 Backend lúc này hoạt động trên EC2 nhưng chưa nhất thiết phải được expose trực tiếp cho người dùng cuối.
 

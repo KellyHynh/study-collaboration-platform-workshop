@@ -187,5 +187,5 @@ After completing the deployment:
 
 The architecture after completing the EC2 deployment is shown below:
 
-![EC2 Deployment Architecture](/images/4-Workshop/4.4-EC2/1.png)
+![EC2 Deployment Architecture](images/4-Workshop/4.4-EC2/1.png)
 

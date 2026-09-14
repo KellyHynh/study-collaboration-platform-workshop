@@ -77,7 +77,7 @@ The main application flow is:
 
 The architecture will be refined during development based on practical requirements, cost considerations, and deployment constraints.
 
-![Final Project AWS Architecture](/images/2-Proposal/platform_architecture.PNG)
+![Final Project AWS Architecture](images/2-Proposal/platform_architecture.PNG)
 
 ### AWS Services Used
 

@@ -166,7 +166,7 @@ Trước đây, AI chủ yếu được sử dụng để hỗ trợ developer v
 
 Mặc dù công nghệ này chưa thể hoàn toàn thay thế vai trò của DevOps Engineer hay Software Engineer, nó có thể giúp giảm đáng kể thời gian xử lý sự cố và cho phép đội ngũ kỹ thuật tập trung nhiều hơn vào việc phát triển các tính năng mới.
 
-![AWS DevOps Agent Architecture](/images/3-BlogsPosted/blog1.png)
+![AWS DevOps Agent Architecture](images/3-BlogsPosted/blog1.png)
 
 ## Tài liệu tham khảo
 

@@ -126,7 +126,7 @@ In particular, combining **Amazon Bedrock** with **Amazon Textract** demonstrate
 
 In my opinion, this is a very interesting approach for anyone learning AWS and looking to combine **Cloud + AI** to solve practical problems.
 
-![AI-powered File Classification Architecture](/images/3-BlogsPosted/blog3.png)
+![AI-powered File Classification Architecture](images/3-BlogsPosted/blog3.png)
 
 ## Reference
 

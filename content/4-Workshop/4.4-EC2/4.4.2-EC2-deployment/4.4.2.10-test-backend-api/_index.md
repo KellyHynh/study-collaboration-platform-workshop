@@ -28,4 +28,4 @@ Expected result:
 
 HTTP/1.1 200 OK
 
-![Backend API Test](/images/4-Workshop/4.4-EC2/9.png)
+![Backend API Test](images/4-Workshop/4.4-EC2/9.png)

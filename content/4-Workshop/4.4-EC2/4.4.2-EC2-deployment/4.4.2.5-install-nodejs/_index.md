@@ -30,4 +30,4 @@ npm -v
 
 The result should confirm that Node.js and npm have been installed successfully.
 
-![Node.js Installation](/images/4-Workshop/4.4-EC2/7.png)
+![Node.js Installation](images/4-Workshop/4.4-EC2/7.png)

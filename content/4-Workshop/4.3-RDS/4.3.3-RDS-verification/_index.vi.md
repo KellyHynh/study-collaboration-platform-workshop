@@ -133,5 +133,5 @@ Kết quả chính:
 
 Kiến trúc sau khi hoàn thành RDS deployment:
 
-![RDS Architecture](/images/4-Workshop/4.3-RDS/image1.png)
+![RDS Architecture](images/4-Workshop/4.3-RDS/image1.png)
 

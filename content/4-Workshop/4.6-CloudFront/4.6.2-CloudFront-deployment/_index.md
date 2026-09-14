@@ -47,7 +47,7 @@ In the Origin section, enter the DNS name of the ALB.
 Example:
 
 knoverse-backend-alb-xxxxxxxx.ap-southeast-1.elb.amazonaws.com
-![ALB as CloudFront Origin](/images/4-Workshop/4.6-CloudFront/2.png)
+![ALB as CloudFront Origin](images/4-Workshop/4.6-CloudFront/2.png)
 
 Do not use the EC2 public IP as the CloudFront origin. The ALB is the intermediary origin for managing traffic to the backend.
 
@@ -56,7 +56,7 @@ Do not use the EC2 public IP as the CloudFront origin. The ALB is the intermedia
 The current KnoVerse origin uses:
 
 HTTP
-![ALB as CloudFront Origin](/images/4-Workshop/4.6-CloudFront/3.png)
+![ALB as CloudFront Origin](images/4-Workshop/4.6-CloudFront/3.png)
 
 CloudFront uses HTTP to connect to the ALB while HTTPS between the client and CloudFront is maintained.
 
@@ -165,7 +165,7 @@ A successful response from another network demonstrates that the application is 
 #### 4.6.2.13. Integration with the Frontend
 
 The KnoVerse frontend is deployed separately on AWS Amplify and uses the CloudFront endpoint as its backend API endpoint.
-![ALB as CloudFront Origin](/images/4-Workshop/4.6-CloudFront/image.png)
+![ALB as CloudFront Origin](images/4-Workshop/4.6-CloudFront/image.png)
 
 The frontend can call:
 

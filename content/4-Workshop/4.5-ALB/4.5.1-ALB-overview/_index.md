@@ -10,7 +10,7 @@ pre: " <b> 4.5.1. </b> "
 
 ALB is positioned between CloudFront and EC2.
 
-![KnoVerse ALB Architecture](/images/4-Workshop/4.5-ALB/1.png)
+![KnoVerse ALB Architecture](images/4-Workshop/4.5-ALB/1.png)
 
 When a client sends a request to the API, the request is sent to ALB. ALB then forwards the request to the appropriate target in the Target Group.
 

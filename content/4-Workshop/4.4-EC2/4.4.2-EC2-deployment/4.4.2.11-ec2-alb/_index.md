@@ -50,5 +50,5 @@ Expected status:
 
 Healthy
 
-![EC2 Target Group](/images/4-Workshop/4.4-EC2/10.png)
+![EC2 Target Group](images/4-Workshop/4.4-EC2/10.png)
 

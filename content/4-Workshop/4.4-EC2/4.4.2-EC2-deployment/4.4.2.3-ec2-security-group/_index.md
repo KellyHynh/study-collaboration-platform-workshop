@@ -54,5 +54,5 @@ EC2
 
 The EC2 Security Group should allow the backend port from the ALB Security Group instead of opening port 3000 to the entire Internet.
 
-![EC2 Security Group](/images/4-Workshop/4.4-EC2/5.png)
+![EC2 Security Group](images/4-Workshop/4.4-EC2/5.png)
 

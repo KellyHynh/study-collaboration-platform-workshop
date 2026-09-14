@@ -26,4 +26,4 @@ For example:
 
 From this point, the following commands are executed directly on the EC2 instance.
 
-![Connect to EC2 Using SSH](/images/4-Workshop/4.4-EC2/6.png)
+![Connect to EC2 Using SSH](images/4-Workshop/4.4-EC2/6.png)

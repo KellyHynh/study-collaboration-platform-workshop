@@ -54,7 +54,7 @@ Sau khi hạ tầng AWS được triển khai, Amazon RDS chịu trách nhiệm 
 
 Kiến trúc kết nối chính được minh họa bên dưới:
 
-![KnoVerse RDS Architecture](/images/4-Workshop/4.3-RDS/image1.png)
+![KnoVerse RDS Architecture](images/4-Workshop/4.3-RDS/image1.png)
 
 Backend không truy cập cơ sở dữ liệu thông qua CloudFront hoặc Application Load Balancer. Các request từ client trước tiên được xử lý bởi backend application chạy trên EC2. Sau đó, backend thực hiện các thao tác với cơ sở dữ liệu Amazon RDS thông qua AWS network đã được cấu hình.
 

@@ -138,7 +138,7 @@ Previously, AI was mainly used to assist developers with writing code. Now, AI i
 
 Although this technology cannot completely replace the role of DevOps Engineers or Software Engineers, it can significantly reduce the time spent troubleshooting failures and allow technical teams to focus more on developing new features.
 
-![AWS DevOps Agent Architecture](/images/3-BlogsPosted/blog1.png)
+![AWS DevOps Agent Architecture](images/3-BlogsPosted/blog1.png)
 ## Reference
 
 **AWS Blog:**

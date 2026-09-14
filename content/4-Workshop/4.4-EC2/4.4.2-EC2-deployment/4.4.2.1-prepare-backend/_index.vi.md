@@ -34,7 +34,7 @@ GET /api/courses
 
 Backend cần trả về course data thành công trước khi bắt đầu quá trình triển khai lên AWS.
 
-![Kiểm tra Backend API](/images/4-Workshop/4.4-EC2/2.png)
+![Kiểm tra Backend API](images/4-Workshop/4.4-EC2/2.png)
 
 Điều này giúp phân biệt các vấn đề liên quan đến application với các lỗi có thể phát sinh trong quá trình triển khai AWS.
 

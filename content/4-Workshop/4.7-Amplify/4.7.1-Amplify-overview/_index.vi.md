@@ -28,7 +28,7 @@ Amplify
 
 Frontend
 
-![ALB as CloudFront Origin](/images/4-Workshop/4.7-Amplify/1.png)
+![ALB as CloudFront Origin](images/4-Workshop/4.7-Amplify/1.png)
 
 Amplify tập trung vào frontend hosting và deployment, trong khi backend và database được triển khai trên các dịch vụ AWS khác.
 

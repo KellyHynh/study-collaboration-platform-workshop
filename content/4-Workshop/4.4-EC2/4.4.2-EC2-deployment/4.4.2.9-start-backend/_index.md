@@ -22,7 +22,7 @@ The backend will start listening on the port specified by the application config
 
 The process/application can be checked through the terminal.
 
-![Backend Application Running](/images/4-Workshop/4.4-EC2/8.png)
+![Backend Application Running](images/4-Workshop/4.4-EC2/8.png)
 
 At this point, the backend is running on EC2 but does not necessarily need to be directly exposed to end users.
 

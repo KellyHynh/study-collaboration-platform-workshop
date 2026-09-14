@@ -66,4 +66,4 @@ The implementation successfully demonstrates:
 
 S3 complements RDS rather than replacing it: RDS stores structured application data, while S3 stores file-based objects and assets.
 
-![ALB as CloudFront Origin](/images/4-Workshop/4.8-S3/1.png)
+![ALB as CloudFront Origin](images/4-Workshop/4.8-S3/1.png)

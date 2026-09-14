@@ -118,4 +118,4 @@ EC2
 
 RDS
 
-![ALB as CloudFront Origin](/images/4-Workshop/4.7-Amplify/1.png)
+![ALB as CloudFront Origin](images/4-Workshop/4.7-Amplify/1.png)

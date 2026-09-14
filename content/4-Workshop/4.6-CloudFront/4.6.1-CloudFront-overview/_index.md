@@ -18,7 +18,7 @@ pre: " <b> 4.6.1. </b> "
 
 CloudFront is located at the outermost layer of the backend architecture.
 
-![ALB as CloudFront Origin](/images/4-Workshop/4.6-CloudFront/1.png)
+![ALB as CloudFront Origin](images/4-Workshop/4.6-CloudFront/1.png)
 
 CloudFront provides a public endpoint for the backend:
 

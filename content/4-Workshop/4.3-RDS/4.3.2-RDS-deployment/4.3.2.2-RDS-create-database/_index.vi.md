@@ -20,7 +20,7 @@ Asia Pacific (Singapore)
 
 ap-southeast-1
 
-![Mở Amazon RDS](/images/4-Workshop/4.3-RDS/image2.png)
+![Mở Amazon RDS](images/4-Workshop/4.3-RDS/image2.png)
 
 #### Bước 2 — Tạo Database
 
@@ -41,7 +41,7 @@ PostgreSQL
 Chọn phiên bản PostgreSQL tương thích với ứng dụng.
 
 Nếu database local đang sử dụng một phiên bản PostgreSQL cụ thể, nên chọn phiên bản tương thích để hạn chế các vấn đề có thể xảy ra trong quá trình migrate database.
-![RDS Connectivity and Endpoint](/images/4-Workshop/4.3-RDS/image3.png)
+![RDS Connectivity and Endpoint](images/4-Workshop/4.3-RDS/image3.png)
 
 #### Bước 4 — Cấu hình Database Credentials
 
@@ -69,4 +69,4 @@ Kiểm tra lại cấu hình và chọn:
 
 Chờ database chuyển sang trạng thái available.
 
-![RDS Connectivity and Endpoint](/images/4-Workshop/4.3-RDS/image4.png)
+![RDS Connectivity and Endpoint](images/4-Workshop/4.3-RDS/image4.png)

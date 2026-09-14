@@ -44,5 +44,5 @@ Backend
 
 RDS
 
-![Test API Through ALB](/images/4-Workshop/4.4-EC2/11.png)
+![Test API Through ALB](images/4-Workshop/4.4-EC2/11.png)
 

@@ -54,5 +54,5 @@ EC2
 
 Security Group của EC2 nên cho phép port backend từ Security Group của ALB thay vì mở port 3000 cho toàn bộ Internet.
 
-![EC2 Security Group](/images/4-Workshop/4.4-EC2/5.png)
+![EC2 Security Group](images/4-Workshop/4.4-EC2/5.png)
 

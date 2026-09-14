@@ -17,7 +17,7 @@ Use a PostgreSQL client or an appropriate database tool to connect to the RDS en
 
 Run the KnoVerse database migration or schema initialization script.
 
-![Initialize RDS Database](/images/4-Workshop/4.3-RDS/image8.png)
+![Initialize RDS Database](images/4-Workshop/4.3-RDS/image8.png)
 
 #### Step 3 — Check Tables
 
@@ -39,5 +39,5 @@ Verify the following database relationships and constraints:
 
 - Relationships between tables.
 
-![RDS Database Tables](/images/4-Workshop/4.3-RDS/image9.png)
+![RDS Database Tables](images/4-Workshop/4.3-RDS/image9.png)
 

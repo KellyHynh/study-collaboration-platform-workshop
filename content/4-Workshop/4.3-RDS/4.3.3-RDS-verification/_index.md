@@ -133,5 +133,5 @@ The main results are:
 
 The architecture after completing the RDS deployment is illustrated below:
 
-![RDS Architecture](/images/4-Workshop/4.3-RDS/image1.png)
+![RDS Architecture](images/4-Workshop/4.3-RDS/image1.png)
 

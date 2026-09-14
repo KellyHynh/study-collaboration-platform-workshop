@@ -41,5 +41,5 @@ hoặc database host của môi trường local.
 
 Sau khi cập nhật database configuration, restart backend để áp dụng database connection mới.
 
-![Backend RDS Configuration](/images/4-Workshop/4.3-RDS/image7.png)
+![Backend RDS Configuration](images/4-Workshop/4.3-RDS/image7.png)
 

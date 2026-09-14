@@ -34,6 +34,6 @@ GET /api/courses
 
 The backend should successfully return course data before starting the AWS deployment process.
 
-![Backend API Test](/images/4-Workshop/4.4-EC2/2.png)
+![Backend API Test](images/4-Workshop/4.4-EC2/2.png)
 
 This helps distinguish application-related issues from problems that may occur during AWS deployment.

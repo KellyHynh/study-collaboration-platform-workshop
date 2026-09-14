@@ -24,7 +24,7 @@ Make sure the selected Region is:
 
 ap-southeast-1
 
-![Open Amazon EC2](/images/4-Workshop/4.4-EC2/3.png)
+![Open Amazon EC2](images/4-Workshop/4.4-EC2/3.png)
 
 #### Step 2 — Set Instance Name
 
@@ -74,4 +74,4 @@ Review the configuration and select:
 
 Wait until the instance changes to the **Running** state and the system status checks are completed.
 
-![EC2 Network Settings](/images/4-Workshop/4.4-EC2/4.png)
+![EC2 Network Settings](images/4-Workshop/4.4-EC2/4.png)

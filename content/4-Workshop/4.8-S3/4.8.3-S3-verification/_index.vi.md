@@ -66,4 +66,4 @@ Triển khai đã thành công minh họa:
 
 S3 bổ sung cho RDS thay vì thay thế RDS: RDS lưu trữ dữ liệu ứng dụng có cấu trúc, trong khi S3 lưu trữ các object và asset dạng file.
 
-![ALB as CloudFront Origin](/images/4-Workshop/4.8-S3/1.png)
+![ALB as CloudFront Origin](images/4-Workshop/4.8-S3/1.png)

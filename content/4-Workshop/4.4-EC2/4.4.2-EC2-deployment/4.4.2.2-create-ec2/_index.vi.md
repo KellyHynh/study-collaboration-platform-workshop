@@ -24,7 +24,7 @@ Services → EC2 → Instances → Launch instance
 
 ap-southeast-1
 
-![Mở Amazon EC2](/images/4-Workshop/4.4-EC2/3.png)
+![Mở Amazon EC2](images/4-Workshop/4.4-EC2/3.png)
 
 #### Bước 2 — Đặt tên Instance
 
@@ -74,5 +74,5 @@ Kiểm tra lại configuration và chọn:
 
 Chờ instance chuyển sang trạng thái **Running** và các system status checks hoàn tất.
 
-![EC2 Network Settings](/images/4-Workshop/4.4-EC2/4.png)
+![EC2 Network Settings](images/4-Workshop/4.4-EC2/4.png)
 

@@ -19,7 +19,7 @@ pre: " <b> 4.8.1. </b> "
 Amazon S3 (Simple Storage Service) được sử dụng trong KnoVerse như một dịch vụ lưu trữ đối tượng để lưu trữ các file được upload và các tài nguyên của ứng dụng.
 
 Hệ thống tách biệt dữ liệu ứng dụng có cấu trúc khỏi dữ liệu dạng file.
-![ALB as CloudFront Origin](/images/4-Workshop/4.8-S3/1.png)
+![ALB as CloudFront Origin](images/4-Workshop/4.8-S3/1.png)
 
 Amazon RDS PostgreSQL chịu trách nhiệm lưu trữ dữ liệu quan hệ có cấu trúc như thông tin khóa học, bài học, quiz, câu hỏi và metadata liên quan. Amazon S3 được sử dụng để lưu trữ các file và object như course thumbnail.
 

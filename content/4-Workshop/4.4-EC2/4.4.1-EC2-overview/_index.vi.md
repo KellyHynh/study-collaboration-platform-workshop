@@ -58,7 +58,7 @@ Các lý do chính bao gồm:
 
 EC2 nằm giữa Application Load Balancer và Amazon RDS trong kiến trúc backend:
 
-![KnoVerse EC2 Architecture](/images/4-Workshop/4.4-EC2/1.png)
+![KnoVerse EC2 Architecture](images/4-Workshop/4.4-EC2/1.png)
 
 Các thành phần chính bao gồm:
 

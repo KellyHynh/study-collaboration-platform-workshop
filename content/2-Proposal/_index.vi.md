@@ -77,7 +77,7 @@ Luồng hoạt động chính của ứng dụng:
 
 Kiến trúc sẽ được điều chỉnh trong quá trình phát triển dựa trên yêu cầu thực tế, chi phí và các giới hạn khi triển khai.
 
-![Final Project AWS Architecture](/images/2-Proposal/platform_architecture.PNG)
+![Final Project AWS Architecture](images/2-Proposal/platform_architecture.PNG)
 
 ### Các dịch vụ AWS được sử dụng
 

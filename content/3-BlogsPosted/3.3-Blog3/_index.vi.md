@@ -134,7 +134,7 @@ Thay vì xây dựng một server lớn để nhận file, đọc tài liệu v�
 
 Theo mình, đây là một hướng tiếp cận rất đáng tìm hiểu đối với những ai đang học AWS và muốn kết hợp ****Cloud + AI**** vào các bài toán thực tế.
 
-![AI-powered File Classification Architecture](/images/3-BlogsPosted/blog3.png)
+![AI-powered File Classification Architecture](images/3-BlogsPosted/blog3.png)
 
 ## Tài liệu tham khảo
 

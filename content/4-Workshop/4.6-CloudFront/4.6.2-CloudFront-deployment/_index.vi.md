@@ -47,7 +47,7 @@ Tại phần Origin, nhập DNS name của ALB.
 Ví dụ:
 
 knoverse-backend-alb-xxxxxxxx.ap-southeast-1.elb.amazonaws.com
-![ALB as CloudFront Origin](/images/4-Workshop/4.6-CloudFront/2.png)
+![ALB as CloudFront Origin](images/4-Workshop/4.6-CloudFront/2.png)
 Không sử dụng EC2 public IP làm CloudFront origin. ALB là origin trung gian để quản lý traffic đến backend.
 
 #### 4.6.2.4. Cấu hình Origin Protocol
@@ -55,7 +55,7 @@ Không sử dụng EC2 public IP làm CloudFront origin. ALB là origin trung gi
 Origin hiện tại của KnoVerse sử dụng:
 
 HTTP
-![ALB as CloudFront Origin](/images/4-Workshop/4.6-CloudFront/3.png)
+![ALB as CloudFront Origin](images/4-Workshop/4.6-CloudFront/3.png)
 
 CloudFront sử dụng HTTP để kết nối đến ALB trong khi HTTPS giữa client và CloudFront vẫn được duy trì.
 
@@ -164,7 +164,7 @@ Response thành công từ network khác chứng minh application đã được 
 #### 4.6.2.13. Tích hợp với Frontend
 
 Frontend KnoVerse được deploy riêng trên AWS Amplify và sử dụng CloudFront endpoint làm backend API endpoint.
-![ALB as CloudFront Origin](/images/4-Workshop/4.6-CloudFront/image.png)
+![ALB as CloudFront Origin](images/4-Workshop/4.6-CloudFront/image.png)
 Frontend có thể gọi:
 
 GET https://d2hvns14tchtf3.cloudfront.net/api/courses

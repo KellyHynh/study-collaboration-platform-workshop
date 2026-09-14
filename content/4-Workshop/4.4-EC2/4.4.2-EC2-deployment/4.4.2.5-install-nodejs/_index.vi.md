@@ -30,5 +30,5 @@ npm -v
 
 Kết quả cần xác nhận Node.js và npm đã được cài đặt thành công.
 
-![Cài đặt Node.js](/images/4-Workshop/4.4-EC2/7.png)
+![Cài đặt Node.js](images/4-Workshop/4.4-EC2/7.png)
 

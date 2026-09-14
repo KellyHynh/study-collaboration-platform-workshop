@@ -33,7 +33,7 @@ Response phải chứa course data từ KnoVerse.
 
 Sau khi ALB hoạt động ổn định, ALB được sử dụng làm **origin** cho CloudFront distribution knoverse-backend-api.
 
-![ALB as CloudFront Origin](/images/4-Workshop/4.5-ALB/image.png)
+![ALB as CloudFront Origin](images/4-Workshop/4.5-ALB/image.png)
 
 Trong CloudFront, origin được cấu hình trỏ đến ALB DNS:
 

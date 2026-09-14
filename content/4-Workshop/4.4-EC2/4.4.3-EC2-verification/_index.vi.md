@@ -187,5 +187,5 @@ Sau khi hoàn thành quá trình triển khai:
 
 Kiến trúc sau khi hoàn thành EC2 deployment:
 
-![EC2 Deployment Architecture](/images/4-Workshop/4.4-EC2/1.png)
+![EC2 Deployment Architecture](images/4-Workshop/4.4-EC2/1.png)
 

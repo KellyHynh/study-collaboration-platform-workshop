@@ -118,7 +118,7 @@ Qua bài viết này, mình nhận thấy việc kết hợp ****Amazon Bedrock*
 
 Đây là một hướng phát triển rất đáng chú ý đối với những ai đang tìm hiểu về AI trên AWS, đặc biệt trong bối cảnh AI Agent đang trở thành một xu hướng mới của ngành công nghệ.
 
-![Domain-Specific Classification Architecture](/images/3-BlogsPosted/blog2.png)
+![Domain-Specific Classification Architecture](images/3-BlogsPosted/blog2.png)
 
 ## Tài liệu tham khảo
 

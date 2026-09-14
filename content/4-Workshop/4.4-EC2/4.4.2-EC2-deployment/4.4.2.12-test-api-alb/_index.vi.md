@@ -44,5 +44,5 @@ Backend
 
 RDS
 
-![Kiểm tra API thông qua ALB](/images/4-Workshop/4.4-EC2/11.png)
+![Kiểm tra API thông qua ALB](images/4-Workshop/4.4-EC2/11.png)
 

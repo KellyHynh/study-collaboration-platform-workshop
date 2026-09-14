@@ -19,7 +19,7 @@ Asia Pacific (Singapore)
 
 ap-southeast-1
 
-![Open Amazon RDS](/images/4-Workshop/4.3-RDS/image2.png)
+![Open Amazon RDS](images/4-Workshop/4.3-RDS/image2.png)
 
 #### Step 2 — Create the Database
 
@@ -41,7 +41,7 @@ Select a PostgreSQL version that is compatible with the application.
 
 If the local database uses a specific PostgreSQL version, selecting a compatible version helps reduce potential migration issues.
 
-![RDS Connectivity and Endpoint](/images/4-Workshop/4.3-RDS/image3.png)
+![RDS Connectivity and Endpoint](images/4-Workshop/4.3-RDS/image3.png)
 
 #### Step 4 — Configure Database Credentials
 
@@ -69,4 +69,4 @@ Review the configuration and select:
 
 Wait until the database changes to the available state.
 
-![RDS Connectivity and Endpoint](/images/4-Workshop/4.3-RDS/image4.png)
+![RDS Connectivity and Endpoint](images/4-Workshop/4.3-RDS/image4.png)

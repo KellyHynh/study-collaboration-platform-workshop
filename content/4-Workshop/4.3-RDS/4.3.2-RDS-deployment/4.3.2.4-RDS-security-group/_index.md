@@ -41,5 +41,5 @@ for PostgreSQL in a real deployment environment.
 
 Make sure the outbound configuration does not prevent the required connections.
 
-![RDS Security Group](/images/4-Workshop/4.3-RDS/image6.png)
+![RDS Security Group](images/4-Workshop/4.3-RDS/image6.png)
 

@@ -10,7 +10,7 @@ pre: " <b> 4.5.1. </b> "
 
 ALB nằm giữa CloudFront và EC2.
 
-![KnoVerse ALB Architecture](/images/4-Workshop/4.5-ALB/1.png)
+![KnoVerse ALB Architecture](images/4-Workshop/4.5-ALB/1.png)
 
 Khi client gửi request đến API, request được chuyển đến ALB. ALB sau đó chuyển tiếp request đến target phù hợp trong Target Group.
 

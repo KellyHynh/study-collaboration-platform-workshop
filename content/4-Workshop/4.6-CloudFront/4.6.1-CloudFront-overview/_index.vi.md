@@ -18,7 +18,7 @@ pre: " <b> 4.6.1. </b> "
 
 CloudFront nằm ở lớp ngoài cùng của backend architecture.
 
-![ALB as CloudFront Origin](/images/4-Workshop/4.6-CloudFront/1.png)
+![ALB as CloudFront Origin](images/4-Workshop/4.6-CloudFront/1.png)
 
 CloudFront cung cấp một public endpoint cho backend:
 

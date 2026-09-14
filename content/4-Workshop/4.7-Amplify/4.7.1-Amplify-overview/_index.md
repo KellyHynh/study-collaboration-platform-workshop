@@ -27,7 +27,7 @@ Amplify
 &nbsp;&nbsp;↓
 
 Frontend
-![ALB as CloudFront Origin](/images/4-Workshop/4.7-Amplify/1.png)
+![ALB as CloudFront Origin](images/4-Workshop/4.7-Amplify/1.png)
 
 Amplify focuses on frontend hosting and deployment, while the backend and database are deployed on other AWS services.
 

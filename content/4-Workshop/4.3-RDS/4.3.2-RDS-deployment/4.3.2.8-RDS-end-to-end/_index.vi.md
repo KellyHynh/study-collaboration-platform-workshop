@@ -11,7 +11,7 @@ Bước này xác nhận toàn bộ quá trình triển khai database hoạt đ�
 
 Luồng kiểm tra:
 
-![RDS End-to-End Flow](/images/4-Workshop/4.3-RDS/image10.png)
+![RDS End-to-End Flow](images/4-Workshop/4.3-RDS/image10.png)
 
 #### Bước 1 — Kiểm tra Backend
 
@@ -59,5 +59,5 @@ API response
 
 Toàn bộ flow đã hoạt động end-to-end.
 
-![RDS Verification Result](/images/4-Workshop/4.3-RDS/11.png)
+![RDS Verification Result](images/4-Workshop/4.3-RDS/11.png)
 

@@ -138,7 +138,7 @@ only considered complete when the frontend can communicate with the
 production backend.
 
 Request architecture:
-![ALB as CloudFront Origin](/images/4-Workshop/4.7-Amplify/image.png)
+![ALB as CloudFront Origin](images/4-Workshop/4.7-Amplify/image.png)
 
 Frontend performs a
 request to the API:

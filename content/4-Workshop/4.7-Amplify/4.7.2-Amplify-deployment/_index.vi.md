@@ -138,7 +138,7 @@ chỉ được xem là hoàn chỉnh khi frontend có thể giao tiếp với ba
 production.
 
 Kiến trúc request:
-![ALB as CloudFront Origin](/images/4-Workshop/4.7-Amplify/image.png)
+![ALB as CloudFront Origin](images/4-Workshop/4.7-Amplify/image.png)
 
 Frontend thực hiện
 request tới API:

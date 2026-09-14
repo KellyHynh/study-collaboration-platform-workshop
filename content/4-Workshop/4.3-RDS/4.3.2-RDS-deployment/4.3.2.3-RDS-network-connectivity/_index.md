@@ -48,5 +48,5 @@ DB_HOST=<RDS_ENDPOINT>
 
 DB_PORT=5432
 
-![RDS Connectivity and Endpoint](/images/4-Workshop/4.3-RDS/image5.png)
+![RDS Connectivity and Endpoint](images/4-Workshop/4.3-RDS/image5.png)
 

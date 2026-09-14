@@ -95,7 +95,7 @@ Through this article, I realized that combining **Amazon Bedrock** with serverle
 
 This is a very interesting direction for anyone learning about AI on AWS, especially as AI Agents are becoming an emerging trend in the technology industry.
 
-![Domain-Specific Classification Architecture](/images/3-BlogsPosted/blog2.png)
+![Domain-Specific Classification Architecture](images/3-BlogsPosted/blog2.png)
 
 ## Reference
 

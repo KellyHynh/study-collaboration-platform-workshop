@@ -58,7 +58,7 @@ For a learning project such as KnoVerse, EC2 also clearly demonstrates how a bac
 
 EC2 is positioned between the Application Load Balancer and Amazon RDS in the backend architecture:
 
-![KnoVerse EC2 Architecture](/images/4-Workshop/4.4-EC2/1.png)
+![KnoVerse EC2 Architecture](images/4-Workshop/4.4-EC2/1.png)
 
 The main components are:
 

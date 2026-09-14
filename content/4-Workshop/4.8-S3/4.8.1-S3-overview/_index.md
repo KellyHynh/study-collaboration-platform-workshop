@@ -20,7 +20,7 @@ Amazon S3 (Simple Storage Service) is used in KnoVerse as an object storage serv
 
 The system separates structured application data from file-based data.
 
-![ALB as CloudFront Origin](/images/4-Workshop/4.8-S3/1.png)
+![ALB as CloudFront Origin](images/4-Workshop/4.8-S3/1.png)
 
 Amazon RDS PostgreSQL is responsible for structured relational data such as course information, lessons, quizzes, questions, and related metadata. Amazon S3 is used to store files and objects such as course thumbnails.
 
