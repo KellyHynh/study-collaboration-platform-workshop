@@ -1,5 +1,5 @@
 baseURL = "https://kellyhynh.github.io/study-collaboration-platform-workshop/"
-relativeURLs = true
+relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
 
