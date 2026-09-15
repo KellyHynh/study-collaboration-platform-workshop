@@ -38,5 +38,5 @@ The workshop demonstrates how the application's database, backend, load balancin
 
 8. [Amazon S3](4.8-S3/)
 
-
+9. [Cost Estimation and Optimization](4.9-Cost-Estimation-and-Optimization/)
 
