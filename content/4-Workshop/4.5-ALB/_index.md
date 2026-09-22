@@ -1,7 +1,7 @@
 ---
 title: "Application Load Balancer"
 date: 2026-09-14
-weight: 1
+weight: 5
 chapter: false
 pre: " <b> 4.5. </b> "
 ---

@@ -4,7 +4,7 @@ title: "Workshop Overview"
 
 date: 2026-09-14
 
-weight: 5
+weight: 1
 
 chapter: false
 
